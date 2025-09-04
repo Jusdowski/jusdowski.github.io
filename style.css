@@ -50,7 +50,7 @@ body{
 a,a:hover,a:active,a:focus {
 	display:inline-block;
 	text-decoration:none;
-	color: #6a708e;
+	background-image: url("myimage.jpg");
 	font-size:16px;
 	padding:0;
 }
@@ -854,3 +854,4 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
 }
 
 /*========================Thank you=================
+
