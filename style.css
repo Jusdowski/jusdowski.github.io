@@ -50,7 +50,6 @@ body{
 a,a:hover,a:active,a:focus {
 	display:inline-block;
 	text-decoration:none;
-	background-image: url("myimage.jpg");
 	font-size:16px;
 	padding:0;
 }
@@ -119,7 +118,7 @@ nav.navbar.bootsnav {
 /*.navbar-brand*/
 .navbar-header a.navbar-brand,.navbar-header a.navbar-brand:hover,.navbar-header a.navbar-brand:focus {
     display: inline-block;
-    color: #d92cf9;
+    color: #0b469e;
     font-size: 20px;
     font-weight: 600;
     padding: 33px 0px 57px;
@@ -190,7 +189,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #d92cf9;}
     align-items: center;
     justify-content: center;
     position:relative;
-    background:url(../images/about/welcome-banner.jpg)no-repeat;
+    background-image: url("myimage.jpg");
     background-size:cover;
     background-position: center;
     height:890px;
@@ -854,4 +853,5 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
 }
 
 /*========================Thank you=================
+
 
